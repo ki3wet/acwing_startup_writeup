@@ -1,0 +1,7 @@
+﻿  数组中的列.cpp
+  数组的右下半部分.cpp
+C:\dev\cppseries\acwing_test\lecture_4\数组的右下半部分.cpp(8,6): error C2632: “int”后面的“double”非法
+C:\dev\cppseries\acwing_test\lecture_4\数组的右下半部分.cpp(9,5): error C2143: 语法错误: 缺少“;”(在“>>”的前面)
+  ※斐波那契数列.cpp
+  最小数和它的位置.cpp
+  正在生成代码...
